@@ -1,0 +1,21 @@
+{
+  "name": "opensea-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
